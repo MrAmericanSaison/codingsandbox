@@ -1,4 +1,6 @@
-const readline = require("readline").createInterface({
+import fetch from 'node-fetch';
+import readlineLib from "readline";
+const readline = readlineLib.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
