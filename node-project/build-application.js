@@ -1,3 +1,7 @@
+// node-project/cat-facts.js
+// to execute: from the command line, run 'node build-application'
+// this will create an html file inside of the build folder
+
 // i want to create a file using javascipt
 // that is executable in the browser
 const fs = require('fs');

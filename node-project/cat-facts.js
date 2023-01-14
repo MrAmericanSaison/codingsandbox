@@ -1,3 +1,6 @@
+// node-project/cat-facts.js
+// to execute: from the command line, run 'node cat-facts.js'
+
 const readline = require("readline").createInterface({
   input: process.stdin,
   output: process.stdout,

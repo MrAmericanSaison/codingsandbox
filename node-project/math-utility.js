@@ -1,5 +1,8 @@
 const { exit } = require("process");
 
+// node-project/cat-facts.js
+// to execute: from the command line, run 'node math-utility'
+
 const readline = require("readline").createInterface({
   input: process.stdin,
   output: process.stdout,
